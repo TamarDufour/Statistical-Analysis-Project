@@ -1,7 +1,7 @@
 ### Statistical-Analysis-Project
 #### Adi Hatav and Tamar Dufour Dror, 2023
 
-The data file is CVD_cleaned.csv, taken from kaggle - https://www.kaggle.com/datasets/alphiree/cardiovascular-diseases-risk-prediction-dataset.
+The data file we used (CVD_cleaned.csv) was taken from kaggle - https://www.kaggle.com/datasets/alphiree/cardiovascular-diseases-risk-prediction-dataset.
 
 
 This project consists of 5 different parts during which different statistical methods for data analysis were applied. Each section focused on the following topics:
